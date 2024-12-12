@@ -1,6 +1,6 @@
 # Luis Barajas's Portfolio 
 
-Hi, I am an Electrical Engineer Student at California State University of Fullerton and I except to Graduate in 2028
+Hi, I am an Electrical Engineer Student at California State University of Fullerton and I except to Graduate in 2028.
 
 ## Favorite CSPC 120L Labs
 
